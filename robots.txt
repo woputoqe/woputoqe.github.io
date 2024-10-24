@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://woputoqe.github.io/sitemap/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/Tta/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/Dfx/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/TVr/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/svH/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/VQa/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/ErN/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/tij/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/tBE/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/tVu/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/wJO/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/qNE/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/NdA/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/kIt/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/QSx/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/ecU/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/CAk/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/BhL/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/eQd/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/rPd/sitemap_index.woputoqe
+Sitemap: https://woputoqe.github.io/Qhu/sitemap_index.woputoqe
